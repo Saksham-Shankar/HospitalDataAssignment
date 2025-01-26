@@ -1,0 +1,27 @@
+﻿Patient ID,Age,Diagnosis,Length of Stay,Department
+1,37,Common Cold,1,Common Disease
+2,85,Arthritis,1,Old Age
+3,70,Hypertension,8,Bariatrics
+4,66,Arthritis,2,Old Age
+5,16,Cholera,1,Pediatrics
+6,19,Cancer (Lung),5,Oncology
+7,85,Arthritis,3,Old Age
+8,57,Cancer (Lung),25,Oncology
+9,18,Common Cold,2,Pediatrics
+10,21,Fracture,23,Orthopedic
+11,44,,4,Orthopedic
+12,15,,25,Bariatrics
+13,77,Arthritis,3,Old Age
+13,77,Arthritis,3,Old Age
+14,50,Common Cold,1,Common Disease
+15,59,,3,Rheumatology
+16,71,Arthritis,1,Old Age
+17,27,,6,Rheumatology
+18,19,Tubercolosis,2,Pulmonary
+19,28,Common Cold,1,Common Disease
+20,85,Cancer (Heart),34,Oncology
+21,40,Fracture,7,Orthopedic
+22,20,,6,Oncology
+23,26,,2,Rheumatology
+24,84,Fracture,8,Orthopedic
+25,75,,3,Old Age
